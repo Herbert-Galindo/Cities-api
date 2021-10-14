@@ -4,7 +4,7 @@ Projeto desenvolvido em cima do que foi ensinado pela Digital Innovation One: Co
 
 ## Requirements
 
-* Linux
+
 * Git
 * Java 8
 * Docker
